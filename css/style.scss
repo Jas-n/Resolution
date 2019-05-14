@@ -1,1 +1,9 @@
 @import "bootstrap/bootstrap-reboot";
+body{
+	canvas,
+	img{
+		border:1px solid #000;
+		margin:$spacer/2;
+		width:75%;
+	}
+}
